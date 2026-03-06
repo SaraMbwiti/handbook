@@ -14,6 +14,4 @@ If the outcome of the eye test is that you require glasses for the use of Displa
 
 Please request that the optician provides a report/copy of the prescription indicating these are required specifically for DSE or VDU use.
 
-**Note:** If you use Westfield Health you may want to reclaim the cost using their service instead, especially if you wish to purchase more expensive frames.
-
 If you have any questions on this please contact #ops
