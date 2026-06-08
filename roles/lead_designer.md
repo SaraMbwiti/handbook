@@ -4,7 +4,7 @@
 - Offices: Bristol, London, Manchester, and Swansea
 - Salary: Please refer to the job advert when the role is live
 Note: Any new joiners will be offered a salary in the bottom third of this range
-- SFIA: Level 5
+- Grade: Level 11
 
 Lead Designers at Made Tech are specialists in their design discipline(s). In this case, we’re looking for an expert practitioner in Interaction and Service Design who is able to coach, mentor and lead other designers within the Interaction and Service Design discipline at Made Tech. Success in this role means guiding the work of other designers within the Interaction and Service Design discipline to deliver positive outcomes. 
 
