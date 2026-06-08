@@ -3,7 +3,7 @@
 * Location: mainly remote with occasional office and client visits
 * Offices: London, Bristol, Manchester, and Swansea
 * Salary: Please refer to the add when the job is live
-* SFIA: Level 5
+* Gade: Level 5
 
 
 ## Summary
@@ -38,7 +38,7 @@ Lead Content Designers are expert practitioners who influence and mentor others.
 
 ### Community
 
-- Line management of content designers
+- People management of content designers
 - Support the hiring and onboarding of content designers
 - Help define Made Tech design principles through delivering good public services
 - Help establish a design studio culture at Made Tech and client offices
