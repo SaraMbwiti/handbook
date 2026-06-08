@@ -60,13 +60,12 @@ Collaborates with Principal Business Analysts to ensure that engagements are eff
 
 ## Key measures
 - Delivery of good public services for users with clients, shown through relevant measures, for example. data, metrics, KPIs or the passing of service standards
-- Personal performance aligned with DDaT and SFIA grade, evidenced through peer feedback
+- Personal performance aligned with DDaT and grade, evidenced through peer feedback
 
 ## Salary and location
 
 We mainly work remotely but you may need to visit clients or go to the office occasionally. We have offices in London, Bristol, Manchester, and Swansea. 
 We practice salary transparency when it comes to advertising roles at Made Tech. Every role we publish will include the salary range in the job ad, please do refer to that.
-For any internal candidates, we are currently reviewing and refreshing our pay bands and will be sharing those internally first. They will then be placed back here again by the end of July 2025.
 
 ## Applying
 When we’re hiring for this role, you can see the details and apply at www.madetech.com/careers. If you have any questions about the role please email us at careers@madetech.com. We’re happy to help!
